@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🌞 WIN8 SIDE BAR REBIRTH 2.0
 
 **A Windows 8.1-inspired dual sidebar launcher for Windows 10/11**  
@@ -20,6 +18,7 @@ Slide-in sidebars, live clock, system shortcuts, and a fully customizable app la
 ![Arch](https://img.shields.io/badge/Arch-x64%20%7C%20x86-lightgrey)
 
 ]()
+
 
 ---
 
@@ -271,10 +270,5 @@ ___
 - No installation required (portable `.zip` versions available)
 - [Everything by voidtools](https://www.voidtools.com/) *(optional — required only for the Everything button)*
 
----
-
-<div align="center">
-
 Made with ❤️ by [AndrianAngel](https://github.com/AndrianAngel/)
 
-</div>
