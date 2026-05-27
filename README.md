@@ -253,12 +253,12 @@ All settings are saved to `Win8Bar.ini` in the same folder as the executable and
 
 ## 📁 File Structure:
 
-Win8SideBar\
-├── Win8_Side_Bar_Rebirth_2.0_...exe   ← Main executable
-├── Win8Bar.ini                         ← Auto-generated settings file
-└── icons\
-    ├── A1.ico  …  A12.ico             ← Right Bar custom icons (optional)
-    └── B1.ico  …  B12.ico             ← Left Bar custom icons (optional)
+📁 Win8SideBar/  
+├── 📄 Win8_Side_Bar_Rebirth_2.0_...exe  
+├── 📄 Win8Bar.ini  
+└── 📁 icons/  
+    ├── 🖼️ A1.ico … A12.ico  
+    └── 🖼️ B1.ico … B12.ico
 ___
 
 > The `icons\` folder and `Win8Bar.ini` are created automatically on first run if missing.
