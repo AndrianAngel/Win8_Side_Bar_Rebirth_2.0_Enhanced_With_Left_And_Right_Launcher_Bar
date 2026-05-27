@@ -5,7 +5,7 @@ Slide-in sidebars, live clock, system shortcuts, and a fully customizable app la
 
 ---
 
-<a href="https://github.com/AndrianAngel/"><img src="https://img.shields.io/badge/Release-2.0%20Stable-brightgreen"/></a>
+<a href="[https://github.com/AndrianAngel/](https://github.com/AndrianAngel/Win8_Side_Bar_Rebirth_2.0_Enhanced_With_Left_And_Right_Launcher_Bar/blob/main/)"><img src="https://img.shields.io/badge/Release-2.0%20Stable-brightgreen"/></a>
 <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11-blue"/>
 <img src="https://img.shields.io/badge/Arch-x64%20%7C%20x86-lightgrey"/>
 
