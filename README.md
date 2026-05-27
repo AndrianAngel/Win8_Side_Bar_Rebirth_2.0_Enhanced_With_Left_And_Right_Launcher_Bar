@@ -21,8 +21,6 @@ Slide-in sidebars, live clock, system shortcuts, and a fully customizable app la
 
 ]()
 
-</div>
-
 ---
 
 ### 🌞 WIN8 SIDE BAR REBIRTH 2.0
