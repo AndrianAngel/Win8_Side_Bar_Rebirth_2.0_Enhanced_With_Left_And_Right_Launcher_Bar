@@ -2,21 +2,9 @@
 
 **A Windows 8.1-inspired dual sidebar launcher for Windows 10/11**  
 Slide-in sidebars, live clock, system shortcuts, and a fully customizable app launcher — all in a sleek dark UI.
-
-[
-
-![Release](https://img.shields.io/badge/Release-2.0%20Stable-brightgreen)
-
-](https://github.com/AndrianAngel/) [
-
-![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue)
-
-]() [
-
-![Arch](https://img.shields.io/badge/Arch-x64%20%7C%20x86-lightgrey)
-
-]()
-
+<a href="https://github.com/AndrianAngel/"><img src="https://img.shields.io/badge/Release-2.0%20Stable-brightgreen"/></a>
+<img src="https://img.shields.io/badge/Platform-Windows%2010%2F11-blue"/>
+<img src="https://img.shields.io/badge/Arch-x64%20%7C%20x86-lightgrey"/>
 
 ---
 
