@@ -7,13 +7,11 @@ Slide-in sidebars, live clock, system shortcuts, and a fully customizable app la
 
 ![Release](https://img.shields.io/badge/Release-2.0%20Stable-brightgreen)
 
-](https://github.com/AndrianAngel/)
-[
+](https://github.com/AndrianAngel/) [
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue)
 
-]()
-[
+]() [
 
 ![Arch](https://img.shields.io/badge/Arch-x64%20%7C%20x86-lightgrey)
 
